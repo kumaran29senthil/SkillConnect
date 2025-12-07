@@ -1,0 +1,10 @@
+# Ignore dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore local environment files (security)
+.env
+
+# Ignore system files
+.DS_Store
